@@ -1,0 +1,69 @@
+body{
+	background: url('../Images/Main Image.jpg');
+	margin: 0px;
+	padding: 0px;
+}
+#intro{
+	width: 70%;
+	min-height: 600px;
+	background-color: #EEEEEE;
+	margin: auto;
+	border: 1px solid black;
+	margin-bottom: 10px;
+}
+ div#header img {
+ width:888px;
+ height:; /* the height of the logo image */
+ margin:0 auto
+}
+ h1{
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	color: 6495ED;
+}
+ul{
+	list-style-type: none;
+	margin: auto;
+	padding: 0;
+	overflow: hidden;
+	background-color: F0F8FF;
+}
+
+li{
+	float: right;
+}
+
+li a{
+	display: block;
+	color: 6495ED;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover{
+	background-color: green;
+}
+div#firstimage img {
+ width:888px;
+ height:; /* the height of the logo image */
+ margin:0 auto;
+}
+div #list ul{
+	background-color: EEEEEE;
+}
+
+div#list li
+{
+   display:block;
+   float:left;
+   width:300px; // adjust
+   height:150px; // adjust
+   padding: 5px; //adjust
+}
+footer {
+	text-align: center;
+	background-color: F0F8FF;
+	padding: 5px;
+	color: 6495ED;
+}
